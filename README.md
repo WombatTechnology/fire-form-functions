@@ -1,6 +1,7 @@
 # fire-form-functions
 
 Cloud functions for [fire-form]()
+
 To use this repo, you need to setup fire-form.
 
 Currently available
@@ -9,7 +10,9 @@ Currently available
 
 ## Prerequisites
 ✅ Create incoming web hook of slack. Detail [here](https://api.slack.com/messaging/webhooks)
+
 ✅ Make firebase project to Blaze. (It’s necessary for deploy cloud function)
+
 ✅ Login your fire base account with firebase login command.
 
 ```
